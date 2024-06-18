@@ -1,8 +1,10 @@
-Projeto de Web Services com Spring Boot e JPA / Hibernate
-Este repositório contém um projeto de web services desenvolvido utilizando as tecnologias Spring Boot 3, Maven, H2 Database e Postman para testes de API. O objetivo do projeto é demonstrar a criação e consumo de serviços RESTful com uma camada de persistência de dados usando JPA/Hibernate.
+🌐 Projeto de Web Services com Spring Boot e JPA / Hibernate
 
-Tecnologias Utilizadas
-Spring Boot 3: Framework para criação de aplicações Java standalone, produção-ready, com configuração mínima.
-Maven: Ferramenta de automação de compilação e gerenciamento de dependências.
-H2 Database: Banco de dados relacional em memória utilizado para facilitar o desenvolvimento e testes.
+📝 Descrição
+Este repositório contém um projeto de web services desenvolvido com foco em demonstração de criação e consumo de serviços RESTful utilizando Spring Boot 3, JPA/Hibernate para persistência de dados, Maven para gerenciamento de dependências, H2 Database como banco de dados em memória e Postman para testes de API.
+
+🚀 Tecnologias Utilizadas
+Spring Boot 3: Framework para criação de aplicações Java standalone, com configuração mínima.
+Maven: Ferramenta para automação de compilação e gerenciamento de dependências.
+H2 Database: Banco de dados relacional em memória para desenvolvimento e testes rápidos.
 Postman: Ferramenta para teste de APIs RESTful.
